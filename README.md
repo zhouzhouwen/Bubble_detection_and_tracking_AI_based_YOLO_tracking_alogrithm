@@ -11,3 +11,6 @@ Subcooled flow boiling is a pivotal process prevalent in a myriad of scientific 
 
 
 Keywords: condensation bubble, subcooled flow boiling, feature extraction, object detection and tracking
+
+
+paper: Zhou, W., Miwa, S., Tsujimura, R., Nguyen, T. B., Okawa, T., & Okamoto, K. (2024). Bubble feature extraction in subcooled flow boiling using AI-based object detection and tracking techniques. International Journal of Heat and Mass Transfer, 222, 125188.
